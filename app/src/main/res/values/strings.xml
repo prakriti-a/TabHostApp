@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TabHost App</string>
+    <string name="first_tab">THIS IS THE FIRST TAB</string>
+    <string name="second_tab">THIS IS THE SECOND TAB</string>
+</resources>
